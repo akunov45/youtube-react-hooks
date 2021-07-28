@@ -10,6 +10,7 @@ body {
 }
 
 .todo.completed span {
+  color: red;
   text-decoration: line-through;
 }
 
